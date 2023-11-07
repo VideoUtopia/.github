@@ -11,7 +11,7 @@ Utopic是一个基于Web的短视频网络应用，旨在为用户提供丰富�
 
 ## 项目效果展示
 
-
+视频展示：https://www.bilibili.com/video/BV1qz4y1P77w/
 
 ## 访问Utopic
 
